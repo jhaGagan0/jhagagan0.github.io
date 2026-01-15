@@ -45,7 +45,7 @@ export default function Footer() {
             <SiGeeksforgeeks />
           </a>
           <a
-            href="https://instagram.com/gagan.jha19"
+            href="https://instagram.com/gagan.20s"
             target="_blank"
             rel="noopener noreferrer"
             className="text-light"
